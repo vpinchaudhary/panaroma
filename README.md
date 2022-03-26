@@ -4,7 +4,8 @@
 
 > A image sharing platform created with MongoDB, Express, React, and Socket.io
 
-##Live Demo: https://panaroma-vpin.netlify.app/
+##Live Demo
+https://panaroma-vpin.netlify.app/
 
 ## Tech
 
